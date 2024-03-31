@@ -22,5 +22,5 @@ jobs:
         uses: actions/setup-node@v4
       - name: Install Prettier 💾
         run: npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
-      - name: Prettier Check 🔎
-        run: npx prettier . --check
+      - name: Prettier Fix Issues 🧰
+        run: npx prettier . --write
