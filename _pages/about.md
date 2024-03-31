@@ -9,18 +9,18 @@ profile:
   image: CV_Bild.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>EPFL STI IGM SYCAMORE</p>
+    <p>Office: ME C1 402 </p>
+    <p>1015 Lausanne, Switzerland</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Some more information will come soon.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Links:** &nbsp;&nbsp;&nbsp;&nbsp;[<i class=\"fa-solid fa-envelope\"></i> Email](mailto:anna.maddux@epfl.ch)&nbsp;&nbsp;&nbsp;&nbsp; [<i class=\"ai ai-google-scholar\"></i> Google Scholar](https://scholar.google.com/citations?user=Ei6fr2MAAAAJ)&nbsp;&nbsp;&nbsp;&nbsp;[<i class=\"ai ai-orcid\"></i> ORCID](https://orcid.org/0009-0004-3109-4203)&nbsp;&nbsp;&nbsp;&nbsp;[<i class=\"fa-brands fa-github\"></i> GitHub](https://github.com/amaddux9)&nbsp;&nbsp;&nbsp;&nbsp;[<i class=\"fa-brands fa-linkedin\"></i> LinkedIn](https://www.linkedin.com/in/anna-maddux-a76a96104/)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
