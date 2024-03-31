@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student in the <a href='https://www.epfl.ch/labs/sycamore/'>Sycamore Lab</a>. Laboratoire Automatique, Institute of Mechanical Engineering, EPFL, Switzerland.
 
 profile:
   align: right
