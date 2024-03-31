@@ -9,6 +9,7 @@ on:
       - "assets/**"
       - "**.html"
       - "**.js"
+      - ".lycheeignore"
       - "**.liquid"
       - "**/*.md"
       - "**.yml"
