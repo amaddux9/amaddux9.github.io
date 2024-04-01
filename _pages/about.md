@@ -16,7 +16,7 @@ profile:
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 I am currently enrolled in a PhD program at EPFL Lausanne, where I am conducting research under the supervision of Maryam Kamgarpour in the Systems Control and Multiagent Optimization Research (Sycamore) Lab. My research interests lie in the fields of game theory, mechanism design and learning in multi-agent systmes. In my research, I develope learning algorithms with convergence- and sample complexity guarantees for repeated games. In particular, I focus on games with unknown constraints for which I establish learning algorithms that result in an feasible outcome. I am also very interested in understaning to which outcome differenet learning algorithms converge and whether an efficient equilibrium in terms of social welfare can be attained by different learning algorithms. To validate my learning algorithms I consider various 
