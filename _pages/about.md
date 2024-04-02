@@ -6,7 +6,7 @@ subtitle: PhD student in the <a href='https://www.epfl.ch/labs/sycamore/'>Sycamo
 
 profile:
   align: right
-  image: 20240311_skitouring2_cropped_.jpg
+  image: 20240311_skitouring2_cropped.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>EPFL STI IGM SYCAMORE</p>
