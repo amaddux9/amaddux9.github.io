@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am presenting my poster on ``Multi-Agent Learning in Contextual Games under Unknown Constraints'' at <a href='https://aistats.org/aistats2024/index.html'>AISTATS</a> taking place in Valencia.
+I am presenting my poster on _Multi-Agent Learning in Contextual Games under Unknown Constraints_ at [AISTATS](https://aistats.org/aistats2024/index.html) taking place in Valencia.

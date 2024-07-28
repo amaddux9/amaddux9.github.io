@@ -5,6 +5,7 @@ inline: true
 related_posts: false
 ---
 
-I am presenting my work on at <a href='https://arxiv.org/abs/2405.15497'>``Finite-time convergence to an $\epsilon$-efficient Nash equilibrium in potential games''</a> 
-at the <a href='https://indico.math.cnrs.fr/event/10543/'>``Workshop on Learning in Games''</a> taking place in Metz.
+I am presenting my work on at [Finite-time convergence to an ``\epsilon``-efficient Nash equilibrium in potential games](https://arxiv.org/abs/2405.15497) 
+at the [Workshop on Learning in Games](https://indico.math.cnrs.fr/event/10543/) taking place in Metz.
+
 
