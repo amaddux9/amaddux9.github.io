@@ -27,3 +27,5 @@ Prior to my PhD, I obtained a MSc. in Statistics from ETH Zürich (2021), where 
 **Links:** &nbsp;&nbsp;&nbsp;&nbsp;[<i class="fa-solid fa-envelope"></i> Email](mailto:anna.maddux@epfl.ch)&nbsp;&nbsp;&nbsp;&nbsp; [<i class="ai ai-google-scholar"></i> Google Scholar](https://scholar.google.com/citations?user=Ei6fr2MAAAAJ)&nbsp;&nbsp;&nbsp;&nbsp;[<i class="ai ai-orcid"></i> ORCID](https://orcid.org/0009-0004-3109-4203)&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fa-brands fa-github"></i> GitHub](https://github.com/amaddux9)&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fa-brands fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/anna-maddux-a76a96104/)
 
 
+
+My [Erdös number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 4. For the network-minded among you, here is my connection:
