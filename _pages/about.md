@@ -28,4 +28,4 @@ Prior to my PhD, I obtained a MSc. in Statistics from ETH Zürich (2021), where 
 
 
 
-My [Erdös number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 4. For the network-minded among you, here is my connection:
+
