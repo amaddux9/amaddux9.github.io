@@ -26,6 +26,6 @@ Prior to my PhD, I obtained a MSc. in Statistics from ETH Zürich (2021), where 
 
 **Links:** &nbsp;&nbsp;&nbsp;&nbsp;[<i class="fa-solid fa-envelope"></i> Email](mailto:anna.maddux@epfl.ch)&nbsp;&nbsp;&nbsp;&nbsp; [<i class="ai ai-google-scholar"></i> Google Scholar](https://scholar.google.com/citations?user=Ei6fr2MAAAAJ)&nbsp;&nbsp;&nbsp;&nbsp;[<i class="ai ai-orcid"></i> ORCID](https://orcid.org/0009-0004-3109-4203)&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fa-brands fa-github"></i> GitHub](https://github.com/amaddux9)&nbsp;&nbsp;&nbsp;&nbsp;[<i class="fa-brands fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/anna-maddux-a76a96104/)
 
-
+**Misc:** My [Erdos number](https://de.wikipedia.org/wiki/Erd%C5%91s-Zahl#:~:text=Die%20Erd%C5%91s%2DZahl%20gibt%20die,eine%20Publikation%20gemeinsam%20verfasst%20haben.) is 5.
 
 
