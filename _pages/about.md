@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD student in the <a https://www.epfl.ch/labs/sycamore/'>Sycamore Lab</a>. Laboratoire Automatique, Institute of Mechanical Engineering, EPFL, Switzerland.
+subtitle: PhD student in the Sycamore Lab, Laboratoire Automatique, Institute of Mechanical Engineering, EPFL, Switzerland.
 
 profile:
   align: right
