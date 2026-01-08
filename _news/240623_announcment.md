@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am excited to be attending the Games and Artificial Intelligence Multidisciplinary Summer School summer school [(GAIMSS24)](https://www.gaimss24.org/home) taking place in Metz.
+I am excited to be attending the Games and Artificial Intelligence Multidisciplinary Summer School summer school (GAIMSS24) taking place in Metz.
