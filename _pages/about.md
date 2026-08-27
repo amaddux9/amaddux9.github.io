@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD student in the Sycamore Lab, Laboratoire Automatique, Institute of Mechanical Engineering, EPFL, Switzerland.
+subtitle: Recent PhD graduate from the Sycamore Lab, EPFL, Switzerland.
 
 profile:
   align: right
