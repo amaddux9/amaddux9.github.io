@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-I am excited to share that I have successfully defended my PhD thesis at EPFL on May 22nd, titled [_Game-Theoretic Decision Making in Multi-Agent Systems under Constraints and Welfare Objectives_](https://infoscience.epfl.ch/entities/publication/c7fada0a-1c12-4f44-bffe-e107ecac2db6).
+I am excited to share that I have successfully defended my PhD thesis at EPFL on May 22nd, titled [Game-Theoretic Decision Making in Multi-Agent Systems under Constraints and Welfare Objectives](https://infoscience.epfl.ch/entities/publication/c7fada0a-1c12-4f44-bffe-e107ecac2db6).
 
 
